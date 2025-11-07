@@ -1,0 +1,20 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.dimInactiveRegions": true,
+    "files.associations": {
+        "key_process.h": "c",
+        "hal_rtc.h": "c",
+        "ble_pack_opcode.h": "c",
+        "ble_packet_send.h": "c",
+        "rcscan.h": "c",
+        "hal_gpio.h": "c",
+        "app_cfg.h": "c",
+        "print.h": "c",
+        "config.h": "c",
+        "keyscan.h": "c",
+        "lvd.h": "c",
+        "uart.h": "c",
+        "sys.h": "c",
+        "rmt_lmp_cfg.h": "c"
+    }
+}
